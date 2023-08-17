@@ -16,7 +16,6 @@ export const Header = () => {
       <div className="flex gap-x-10 w-9/12 m-auto justify-end">
         <a href="sobremim">Sobre mim</a>
         <a href="projetos">Projetos</a>
-        <a href="contato">Contato</a>
       </div>
       <button className="bg-red-600 px-4 py-2 rounded-md">MEU CURRÍCULO</button>
     </header>

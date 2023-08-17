@@ -27,7 +27,7 @@ const SobreMim: React.FC = () => {
       <div className="w-1/2">
         <div className="w-10/12 m-auto">
           <h2 className="text-title capitalize text-6xl text-center font-bold">
-            Sobre Mim
+            Sobre mim
           </h2>
           <div className="mt-6">
             <p>O texto que farei sobre mim!</p>
